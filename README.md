@@ -1,6 +1,6 @@
 ## **Hi there 👋 Welcome to my profile 👩🏼‍💻**
 
-##### 🌱 I'm currently learning all about  <sub> ~~making an apple pie~~ </sub>  <sub> ~~GitHub~~ </sub> <sub> ~~MySQL~~ </sub>  Python!
+##### 🌱 I'm currently learning all about  <sub> ~~baking an apple pie~~ </sub>  <sub> ~~GitHub~~ </sub> <sub> ~~MySQL~~ </sub>  Python!
 
 ##### 🐱 I have the best cat ever. His name is Cheddar. 🧀
 
