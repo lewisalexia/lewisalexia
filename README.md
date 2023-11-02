@@ -1,12 +1,12 @@
-## **Hi there 👋 Welcome to my profile 👩🏼‍💻**
+**Hi 👋 Welcome to my profile 👩🏼‍💻**
 
-##### 🌱 I'm currently learning all about  <sub> ~~baking an apple pie~~ </sub>  <sub> ~~GitHub~~ </sub> <sub> ~~MySQL~~ </sub>  Python!
+> 🌱 I'm currently learning all about  <sub> ~~baking an apple pie~~ </sub>  <sub> ~~GitHub~~ </sub> <sub> ~~MySQL~~ </sub>  Python!
 
-##### 🐱 I have the best cat ever. His name is Cheddar. 🧀
+> 🐱 I have the best cat ever. His name is Cheddar. 🧀
 
-##### 💬 Ask me about recommendations for _Data Science Podcasts_.
+> 💬 Ask me about recommendations for _Data Science Podcasts_.
 
-##### 📫 **How To Reach Me:**
+📫 **How To Reach Me:**
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)](mailto:lewisalexia208@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewisalexia208/) [![Github](https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white)](https://github.com/lewisalexia208)
 
