@@ -1,15 +1,12 @@
 **Hi 👋 Welcome to my profile 👩🏼‍💻**
 
-> 🌱 I'm currently learning all about  <sub> ~~baking an apple pie~~ </sub>  <sub> ~~GitHub~~ </sub> <sub> ~~MySQL~~ </sub>  Python!
+> 🌱 I am currently earning my Master of Science in Business Analytics from GGU!
 
-> 🐱 I have the best cat ever. His name is Cheddar. 🧀
-
-> 💬 Ask me about recommendations for _Data Science Podcasts_.
+> 🐱 I have the best dumpster cat. His name is Cheddar. 🧀
 
 📫 **How To Reach Me:**
 
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)](mailto:lewisalexia208@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewisalexia208/) [![Github](https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white)](https://github.com/lewisalexia208)
-
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)](mailto:lewisalexia208@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewisalexia208/)
 ##### 🛠️ Some Tools I've used
 
 <!-- 
