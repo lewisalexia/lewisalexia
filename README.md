@@ -7,7 +7,8 @@
 📫 **How To Reach Me:**
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)](mailto:lewisalexia208@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewisalexia208/)
-##### 🛠️ Some Tools I've used
+
+##### 🛠️ Tools I've Used
 
 <!-- 
 ![name](path or link to image)
@@ -29,7 +30,7 @@
 [![Anaconda](https://img.shields.io/badge/-Anaconda-0D1117?style=flat&logo=anaconda)](https://anaconda.org/)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-0D1117?style=flat&logo=jupyter)](https://jupyter.org/)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
-[![Selenium](https://img.shields.io/badge/-Selenium-0D1117?style=flat&logo=selenium)](https://www.selenium.dev/)
+[![Selenium](https://img.shields.io/badge/-Selenium-0D1117?style=flat&logo=selenium)](https://www.selenium.dev)
 [![Tableau](https://img.shields.io/badge/-Tableau-0D1117?style=flat&logo=tableau)](https://public.tableau.com/app/discover)
 [![MySQL](https://img.shields.io/badge/-MySQL-0D1117?&style=flat&logo=mysql)](https://www.mysql.com/)
 [![Spark](https://img.shields.io/badge/-Spark-0D1117?&style=flat&logo=apachespark)](https://spark.apache.org/)
