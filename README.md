@@ -1,12 +1,12 @@
 **Hi 👋 Welcome to my profile 👩🏼‍💻**
 
-> 🌱 I am currently earning my Master of Science in Business Analytics from GGU!
+> 🌱 I am earning my Master of Science in Business Analytics from GGU!
 
-> 🐱 I have the best dumpster cat. His name is Cheddar. 🧀
+> 🐱 I have the best dumpster rescue cat. His name is Cheddar. 🧀
 
 📫 **How To Reach Me:**
 
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)](mailto:lewisalexia208@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewisalexia208/)
+[![iCloud](https://img.shields.io/badge/iCloud-%23EA4335.svg?style=plastic&logo=iCloud&logoColor=white)](mailto:amnofer@icloud.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amnofer)
 
 ##### 🛠️ Tools I've Used
 
@@ -16,6 +16,7 @@
 [![name](path or link to image)](path or link to click)
 -->
 
+[![Scrapy](https://img.shields.io/badge/-Scrapy-0D1117?style=flat&logo=scrapy)](https://scrapy.org/)
 [![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)](https://www.python.org)
 [![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=flat&logo=pandas)](https://pandas.pydata.org/)
 [![Numpy](https://img.shields.io/badge/-Numpy-0D1117?style=flat&logo=numpy)](https://numpy.org/)
